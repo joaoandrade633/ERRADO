@@ -1,2 +1,2 @@
 # Luancity3.0
-pygame PULA_CAVALO
+pygame FESTA_DO_CAVALO
